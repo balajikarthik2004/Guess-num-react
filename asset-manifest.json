@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Guess-num-react/static/css/main.771a83b6.css",
+    "main.js": "/Guess-num-react/static/js/main.7a2a438e.js",
+    "static/js/453.7c00ba84.chunk.js": "/Guess-num-react/static/js/453.7c00ba84.chunk.js",
+    "index.html": "/Guess-num-react/index.html",
+    "main.771a83b6.css.map": "/Guess-num-react/static/css/main.771a83b6.css.map",
+    "main.7a2a438e.js.map": "/Guess-num-react/static/js/main.7a2a438e.js.map",
+    "453.7c00ba84.chunk.js.map": "/Guess-num-react/static/js/453.7c00ba84.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.771a83b6.css",
+    "static/js/main.7a2a438e.js"
+  ]
+}
