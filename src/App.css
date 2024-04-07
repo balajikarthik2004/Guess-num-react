@@ -1,5 +1,5 @@
 .App {
-  text-align: center;
+  /* text-align: center; */
 }
 
 .App-logo {
@@ -35,4 +35,37 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+body{
+  display: grid;
+  background-color: rgb(58, 38, 38);
+  place-content: center;
+  padding: 15%;
+}
+.container{
+    padding: 10px;
+    border: 2px solid whitesmoke;
+    width: 500px;
+    border-radius: 15px;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+}
+.head{
+  font-weight: 600;
+  margin-bottom: 1rem;
+  font-size: 20px;
+}
+input{
+  padding: 10px;
+  border: 1px solid black;
+  font-size: 18px;
+  border-radius: 10px;
+}
+input:hover{
+  background-color: rgb(85, 75, 75);
+}
+input:focus{
+  background-color: beige;
 }
