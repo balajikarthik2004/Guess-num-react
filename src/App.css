@@ -69,3 +69,13 @@ input:hover{
 input:focus{
   background-color: beige;
 }
+@media only screen and (max-width:400px){
+    .container{
+      width: 280px;
+      font-size: 18px;
+    }
+    label{
+      font-size: 16px;
+      font-weight: bolder;
+    }
+}
